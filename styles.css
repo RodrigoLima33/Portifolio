@@ -133,17 +133,17 @@ body {
 
     .apresentacao_conteudo{
         width: auto;
-        font-size: 1.0rem;
+        font-size: 0.9rem;
     }
 
     .apresentacao_conteudo_titulo{
         width: auto;
-        font-size: 1.0rem;
+        font-size: 0.9rem;
     }
 
     .apresentacao_conteudo_texto{
         width: auto;
-        font-size: 1.0rem;
+        font-size: 0.9rem;
     }
 
     .apresentacao_links_navegacao {
@@ -153,7 +153,7 @@ body {
         width:  378px;
         text-align: center;
         border-radius: 8px;
-        font-size: 1.0rem;
+        font-size: 0.9rem;
         font-weight: 600;
         padding: 20px 0;
         text-decoration: none;
@@ -168,7 +168,7 @@ body {
     color: #000000;
     background-color: #22d4fd;
     text-align: center;
-    font-size: 1.0rem;
+    font-size: 0.9rem;
     font-family: 'Montserrat', sans-serif;
 
    
