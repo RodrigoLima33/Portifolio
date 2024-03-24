@@ -124,6 +124,11 @@ body {
     .cabeçalho__menu{
         justify-content: center;
     }
+
+    .cabeçalho__menu__link{
+        font-size: 1.0rem;
+
+    }
     
     .apresentacao{
         flex-direction: column-reverse;
